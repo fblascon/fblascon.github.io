@@ -5,6 +5,11 @@
 @import url('owl.theme.css');
 @import url('demo.css');
 @import url('component.css');
+@import url('normalize.css');
+@import url('fontawesome.css');
+@import url('pushy.css');
+@import url('demo_pushy.css');
+@import url('cutegrids.css');
 
 
 html {font-size:62.5%;}
