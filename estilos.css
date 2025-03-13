@@ -28,7 +28,7 @@ body {
 /* Evita scroll x del menu */
 h1,h2 {text-align:left;font-size:3em;}
 h3,h4 {text-align:left;font-size:2em;margin-bottom: .5em;}
-p {font-family: 'Droid Serif', Georgia, serif;font-size:1.5em;line-height: 1.5em;color:white;}
+p {font-family: Georgia, serif;font-size:1.5em;line-height: 1.5em;color:white;}
 
 /* fuentes 
 @font-face {
@@ -47,18 +47,18 @@ p {font-family: 'Droid Serif', Georgia, serif;font-size:1.5em;line-height: 1.5em
 
 /* Secciones */
 .header { background:url(../img/bg_texture.jpg) repeat center center;
-          font-family: "Lobster two",georgia, serif;
+          font-family: georgia, serif;
           padding: 0 10%;
           box-shadow: 0em 0.5em 1em #000;
           margin-bottom:1em;
           }
 .header h1 {color:#000;}
 .header  .row div .box {padding: 0em 0;}
-.personal-info {font-family: "Lobster two",georgia, serif;color:black;background:url(../img/bg_texture.jpg) repeat center center ;
+.personal-info {font-family: georgia, serif;color:black;background:url(../img/bg_texture.jpg) repeat center center ;
           box-shadow: 0em 0.5em 1em #000;
           margin-bottom:1em;
           }
-.foot {background:pink;font-family: 'Droid Serif', Georgia, serif;}
+.foot {background:pink;font-family: Georgia, serif;}
 .showcase{display:inline-block;width:100%;}
 
 
