@@ -30,7 +30,7 @@ h1,h2 {text-align:left;font-size:3em;}
 h3,h4 {text-align:left;font-size:2em;margin-bottom: .5em;}
 p {font-family: 'Droid Serif', Georgia, serif;font-size:1.5em;line-height: 1.5em;color:white;}
 
-/* fuentes */
+/* fuentes 
 @font-face {
   font-family: 'Droid Serif';
   font-style: normal;
@@ -43,6 +43,7 @@ p {font-family: 'Droid Serif', Georgia, serif;font-size:1.5em;line-height: 1.5em
   font-weight: 400;
   src: local('Lobster Two'), local('LobsterTwo'), url(https://fonts.gstatic.com/s/lobstertwo/v7/Law3VVulBOoxyKPkrNsAaLrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
 }
+*/
 
 /* Secciones */
 .header { background:url(../img/bg_texture.jpg) repeat center center;
